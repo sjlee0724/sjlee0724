@@ -1,8 +1,4 @@
 
-<div align="center">
-![header](https://capsulerender.vercel.app/apitype=waving&color=0:#F0FF00,100:#58CFFB&height=300&section=header&text=Lee&fontSize=90&fontColor=ffffff)
-</div>
-
 <div align=center>
   <h1>📚 STACKS</h1>
 </div>
@@ -18,10 +14,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-</div>
-
-<div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
   <!--
